@@ -2,3 +2,4 @@
 Ce projet permet de pratiquer les commandes Git et la collaboration sur GitHub.
 
 Modification proposee par le collegue.
+Modification temporaire pour tester stash.
